@@ -1,22 +1,8 @@
 
-# 📘 **Finance Track – Sistema de Controle Financeiro**
+# **Finance Track – Sistema de Controle Financeiro**
 
 Este repositório contém o projeto **Finance Track**, um sistema web simples para controle financeiro pessoal, permitindo registrar transações, visualizar histórico, estabelecer metas e gerenciar configurações gerais.
 
----
-
-## 🎥 **Vídeo de Apresentação (1,0 ponto)**
-
-Conforme solicitado nas instruções, o projeto deve conter um vídeo de **até 1 minuto** apresentando o funcionamento da aplicação.
-
-### ✔ Requisitos do vídeo
-- Pode ser um **link privado do YouTube**;  
-- Ou pode ser enviado diretamente no repositório em **formato MP4**;  
-- Não precisa ser profissional — apenas mostrar o sistema funcionando 😊;  
-- Pode ser gravado em qualquer dispositivo.
-
-> 🔗 **Insira aqui o link do vídeo:**  
-`[LINK DO VÍDEO]`
 
 ---
 
@@ -33,7 +19,7 @@ Conforme solicitado nas instruções, o projeto deve conter um vídeo de **até 
 
 ---
 
-## 📂 **Estrutura do Projeto**
+##  **Estrutura do Projeto**
 
 ```
 finance_track-main/
@@ -51,7 +37,7 @@ finance_track-main/
 
 ---
 
-## 📝 **Descrição Geral do Sistema**
+##  **Descrição Geral do Sistema**
 
 O Finance Track foi desenvolvido para permitir que o usuário:
 
@@ -72,7 +58,7 @@ A *settings.php* permite personalizar elementos básicos do sistema.
 
 ---
 
-## 🛠 **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 
 - **PHP** – para a lógica do backend  
 - **HTML5 & CSS3** – estrutura e estilização  
@@ -82,12 +68,10 @@ A *settings.php* permite personalizar elementos básicos do sistema.
 
 ---
 
-## ▶️ **Como Executar o Projeto**
+## **Como Executar o Projeto**
 
 1. Baixe ou clone este repositório:
-   ```bash
-   git clone https://github.com/seu-repo/finance_track-main
-   ```
+
 2. Coloque a pasta em um servidor local, como:
    - **XAMPP**
    - **WAMP**
@@ -108,8 +92,6 @@ A *settings.php* permite personalizar elementos básicos do sistema.
 ---
 
 ## 🔮 **Possíveis Melhorias Futuras**
-
-Esta lista é inspirada no arquivo `TODOs.txt`:
 
 - Implementar autenticação completa com senha real  
 - Adicionar gráficos ao dashboard  
