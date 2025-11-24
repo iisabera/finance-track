@@ -1,0 +1,6 @@
+# Ajustar o modo dark
+# Melhorar a leitura dos graficos de rosca
+# Melhorar a UX das abas dos graficos
+# Poder editar valores dentro do historico
+# Melhorar a usabilidade do menu nova trasação
+# Poder editar as metas
