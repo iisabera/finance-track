@@ -1,59 +1,120 @@
-# finance-track
 
-Finance Track – Sistema de Controle Financeiro
+# 📘 **Finance Track – Sistema de Controle Financeiro**
 
-Este repositório contém o projeto Finance Track, um sistema web simples para controle financeiro pessoal, permitindo registrar transações, visualizar histórico, estabelecer metas e gerenciar configurações gerais.
+Este repositório contém o projeto **Finance Track**, um sistema web simples para controle financeiro pessoal, permitindo registrar transações, visualizar histórico, estabelecer metas e gerenciar configurações gerais.
 
-👨‍🎓 Integrantes do Grupo
+---
 
-Daniel Augusto Rodrigues
+## 🎥 **Vídeo de Apresentação (1,0 ponto)**
 
-Daniel Tobias Leite de Almeida
+Conforme solicitado nas instruções, o projeto deve conter um vídeo de **até 1 minuto** apresentando o funcionamento da aplicação.
 
-Gabriel Felippi Pereira Baragate
+### ✔ Requisitos do vídeo
+- Pode ser um **link privado do YouTube**;  
+- Ou pode ser enviado diretamente no repositório em **formato MP4**;  
+- Não precisa ser profissional — apenas mostrar o sistema funcionando 😊;  
+- Pode ser gravado em qualquer dispositivo.
 
-Giovanni Alquatride
+> 🔗 **Insira aqui o link do vídeo:**  
+`[LINK DO VÍDEO]`
 
-Isabela Cristina da Silva
+---
 
-José Henrique Pereira da Silva
+## 👨‍🎓 **Integrantes do Grupo**
 
-Lucas Gandra Carreira Polvora
+- **Daniel Augusto Rodrigues**  
+- **Daniel Tobias Leite de Almeida**  
+- **Gabriel Felippi Pereira Baragate**  
+- **Giovanni Alquatride**  
+- **Isabela Cristina da Silva**  
+- **José Henrique Pereira da Silva**  
+- **Lucas Gandra Carreira Polvora**  
+- **Vinicius Rodrigues Quental**
 
-Vinicius Rodrigues Quental
+---
 
-Descrição Geral do Sistema
+## 📂 **Estrutura do Projeto**
+
+```
+finance_track-main/
+│
+├── assets/               # Imagens, ícones e arquivos de estilo
+├── backend.php          # Processamento de ações do sistema
+├── goals.php            # Página de metas financeiras
+├── history.php          # Histórico de transações
+├── home.php             # Página inicial com dashboard
+├── index.php            # Tela de login
+├── settings.php         # Configurações do usuário
+├── TODOs.txt            # Lista interna de itens a desenvolver
+└── .gitattributes
+```
+
+---
+
+## 📝 **Descrição Geral do Sistema**
 
 O Finance Track foi desenvolvido para permitir que o usuário:
 
-🔹 1. Cadastre entradas e saídas financeiras
-
+### 🔹 **1. Cadastre entradas e saídas financeiras**  
 A aplicação oferece campos simples para adicionar transações, com valores, categorias e datas.
 
-🔹 2. Visualize o histórico completo
+### 🔹 **2. Visualize o histórico completo**  
+A página *history.php* lista todas as transações organizadas cronologicamente.
 
-A página history.php lista todas as transações organizadas cronologicamente.
+### 🔹 **3. Gerencie metas financeiras**  
+No módulo *goals.php*, o usuário pode criar, visualizar e acompanhar metas de economia.
 
-🔹 3. Gerencie metas financeiras
+### 🔹 **4. Acesse um painel inicial inteligente**  
+A *home.php* exibe um resumo geral das finanças, incluindo totais de entradas, saídas e saldo.
 
-No módulo goals.php, o usuário pode criar, visualizar e acompanhar metas de economia.
+### 🔹 **5. Ajuste configurações conforme necessidade**  
+A *settings.php* permite personalizar elementos básicos do sistema.
 
-🔹 4. Acesse um painel inicial inteligente
+---
 
-A home.php exibe um resumo geral das finanças, incluindo totais de entradas, saídas e saldo.
+## 🛠 **Tecnologias Utilizadas**
 
-🔹 5. Ajuste configurações conforme necessidade
+- **PHP** – para a lógica do backend  
+- **HTML5 & CSS3** – estrutura e estilização  
+- **JavaScript** – interatividade básica  
+- **JSON** – armazenamento simples de dados  
+- **Assets gráficos** – utilizados para ícones e UI
 
-A settings.php permite personalizar elementos básicos do sistema.
+---
 
-Tecnologias Utilizadas
+## ▶️ **Como Executar o Projeto**
 
-PHP – para a lógica do backend
+1. Baixe ou clone este repositório:
+   ```bash
+   git clone https://github.com/seu-repo/finance_track-main
+   ```
+2. Coloque a pasta em um servidor local, como:
+   - **XAMPP**
+   - **WAMP**
+   - **Laragon**
 
-HTML5 & CSS3 – estrutura e estilização
+3. Mova o projeto para a pasta:
+   ```
+   htdocs/ (XAMPP)
+   www/ (WAMP)
+   ```
+4. Inicie o servidor Apache.
 
-JavaScript – interatividade básica
+5. Acesse no navegador:
+   ```
+   http://localhost/finance_track-main
+   ```
 
-JSON – armazenamento simples de dados (conforme análise do backend)
+---
 
-Assets gráficos – utilizados para ícones e UI
+## 🔮 **Possíveis Melhorias Futuras**
+
+Esta lista é inspirada no arquivo `TODOs.txt`:
+
+- Implementar autenticação completa com senha real  
+- Adicionar gráficos ao dashboard  
+- Melhorar o layout das páginas  
+- Implementar banco de dados (MySQL) em vez de JSON  
+- Criar categorias personalizáveis  
+
+---
