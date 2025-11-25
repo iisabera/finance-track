@@ -1,4 +1,4 @@
-
+.
 # **Finance Track – Sistema de Controle Financeiro**
 
 Este repositório contém o projeto **Finance Track**, um sistema web simples para controle financeiro pessoal, permitindo registrar transações, visualizar histórico, estabelecer metas e gerenciar configurações gerais.
