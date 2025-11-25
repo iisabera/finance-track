@@ -8,7 +8,6 @@ Este repositório contém o projeto **Finance Track**, um sistema web simples pa
 
 ## 👨‍🎓 **Integrantes do Grupo**
 
-- **Daniel Augusto Rodrigues**  
 - **Daniel Tobias Leite de Almeida**  
 - **Gabriel Felippi Pereira Baragate**  
 - **Giovanni Alquatri**  
