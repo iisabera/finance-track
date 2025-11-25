@@ -12,7 +12,7 @@ Este repositório contém o projeto **Finance Track**, um sistema web simples pa
 - **Giovanni Alquatri**  
 - **Isabela Cristina da Silva**  
 - **José Henrique Pereira da Silva**  
-- **Lucas Gandra Carreira Polvora**  
+- **Lucas Gandra Carreira Pólvora**  
 - **Vinicius Rodrigues Quental**
 
 ---
