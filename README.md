@@ -95,7 +95,12 @@ A *settings.php* permite personalizar elementos básicos do sistema.
 - Adicionar gráficos ao dashboard  
 - Melhorar o layout das páginas  
 - Implementar banco de dados (MySQL) em vez de JSON  
-- Criar categorias personalizáveis  
+- Criar categorias personalizáveis 
+- Melhorar a implementação do modo dark
+- Melhorar a leitura dos gráficos de rosca
+- Poder editar valores dentro do historico
+- Melhorar a UX do menu nova trasação
+- Poder editar as metas 
 
 ---
 Video Apresentativo do Projeto.
