@@ -100,5 +100,6 @@ A *settings.php* permite personalizar elementos básicos do sistema.
 - Criar categorias personalizáveis  
 
 ---
-
+Video apresentativo:
+---
 https://github.com/user-attachments/assets/2465e58c-c02d-4f0f-96f2-b56b5b40f1c9
